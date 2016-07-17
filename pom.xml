@@ -23,6 +23,7 @@
         <commons.bean.version>1.7.0</commons.bean.version>
         <commons.file.version>1.2.2</commons.file.version>
         <commons.code.version>1.10</commons.code.version>
+        <commons.log.version>1.2</commons.log.version>
         <commons.compress.version>1.10</commons.compress.version>
         <commons.io.version>2.4</commons.io.version>
         <httpclient.version>4.5</httpclient.version>
